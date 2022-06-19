@@ -16,3 +16,5 @@ In terms of exploring and analyzing, we look at a few things:
   6. Data visualizations using ggplot2. 
 
 My first personal project using R. Hope you enjoy! 
+
+Data source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download&page=2
